@@ -10,7 +10,7 @@
 <channel>
 	<title>Cakes &#8211; Truong_Wordpress</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/cakes/feed/" rel="self" type="application/rss+xml" />
-	<link>https://hdhdhdhdhxjxj.github.io/WP-NguyenMinhTruong</link>
+	<link>https://hdhdhdhdhxjxj.github.io/woocommerce</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Wed, 12 Oct 2022 09:16:29 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>Enormous Bronze Knife</title>
-		<link>https://hdhdhdhdhxjxj.github.io/WP-NguyenMinhTruong/san-pham/enormous-bronze-knife/</link>
-					<comments>https://hdhdhdhdhxjxj.github.io/WP-NguyenMinhTruong/san-pham/enormous-bronze-knife/#respond</comments>
+		<link>https://hdhdhdhdhxjxj.github.io/woocommerce/san-pham/enormous-bronze-knife/</link>
+					<comments>https://hdhdhdhdhxjxj.github.io/woocommerce/san-pham/enormous-bronze-knife/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenMinhTruong]]></dc:creator>
 		<pubDate>Wed, 12 Oct 2022 09:16:29 +0000</pubDate>
-				<guid isPermaLink="false">https://hdhdhdhdhxjxj.github.io/WP-NguyenMinhTruong/?post_type=product&#038;p=66</guid>
+				<guid isPermaLink="false">https://hdhdhdhdhxjxj.github.io/woocommerce/?post_type=product&#038;p=66</guid>
 
 					<description><![CDATA[Et voluptas ut tempore deserunt. Saepe quia error qui aut beatae iste tempore aperiam. Aperiam cum eum repudiandae quia voluptas amet quisquam.]]></description>
 										<content:encoded><![CDATA[<p>Expedita sed dolorem laudantium. Nesciunt eum velit fugiat voluptatem.</p>
 <p>Molestias laudantium omnis sint aliquam nihil corrupti. Recusandae adipisci sapiente voluptatem odit voluptatem. Eos rerum eveniet vitae ad dolore. Totam a ipsam fugiat sint.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://hdhdhdhdhxjxj.github.io/WP-NguyenMinhTruong/san-pham/enormous-bronze-knife/feed/</wfw:commentRss>
+					<wfw:commentRss>https://hdhdhdhdhxjxj.github.io/woocommerce/san-pham/enormous-bronze-knife/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

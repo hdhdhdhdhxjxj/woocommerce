@@ -10,7 +10,7 @@
 <channel>
 	<title>Milky &#8211; Truong_Wordpress</title>
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/milky/feed/" rel="self" type="application/rss+xml" />
-	<link>https://hdhdhdhdhxjxj.github.io/WP-NguyenMinhTruong</link>
+	<link>https://hdhdhdhdhxjxj.github.io/woocommerce</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Wed, 12 Oct 2022 09:13:43 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>Incredible Iron Pants</title>
-		<link>https://hdhdhdhdhxjxj.github.io/WP-NguyenMinhTruong/san-pham/incredible-iron-pants/</link>
-					<comments>https://hdhdhdhdhxjxj.github.io/WP-NguyenMinhTruong/san-pham/incredible-iron-pants/#respond</comments>
+		<link>https://hdhdhdhdhxjxj.github.io/woocommerce/san-pham/incredible-iron-pants/</link>
+					<comments>https://hdhdhdhdhxjxj.github.io/woocommerce/san-pham/incredible-iron-pants/#respond</comments>
 		
 		<dc:creator><![CDATA[NguyenMinhTruong]]></dc:creator>
 		<pubDate>Wed, 12 Oct 2022 09:13:43 +0000</pubDate>
-				<guid isPermaLink="false">https://hdhdhdhdhxjxj.github.io/WP-NguyenMinhTruong/?post_type=product&#038;p=65</guid>
+				<guid isPermaLink="false">https://hdhdhdhdhxjxj.github.io/woocommerce/?post_type=product&#038;p=65</guid>
 
 					<description><![CDATA[Et consequatur veniam dolores facilis sit. Molestiae et dolorem molestiae. Ut voluptatum dolores natus sed aut perspiciatis id sunt.]]></description>
 										<content:encoded><![CDATA[<p>Voluptatibus qui ullam voluptatibus maiores ut dolores. Rerum voluptatem recusandae non distinctio labore ullam laudantium ex. Eius qui quasi molestiae qui.</p>
 <p>Repellat est expedita quibusdam minus et quasi. Sed fuga blanditiis illo nihil et nobis molestias.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://hdhdhdhdhxjxj.github.io/WP-NguyenMinhTruong/san-pham/incredible-iron-pants/feed/</wfw:commentRss>
+					<wfw:commentRss>https://hdhdhdhdhxjxj.github.io/woocommerce/san-pham/incredible-iron-pants/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
